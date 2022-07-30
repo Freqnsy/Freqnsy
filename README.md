@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://gist.github.com/Freqnsy" target="_blank">Илья</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Novice PHP programmer. I have several sites on PHP (self-written, Laravel, Wordpress, Q2A) and android applications on Java </h3>🇷🇺
 
 <!--
 **Freqnsy/Freqnsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
